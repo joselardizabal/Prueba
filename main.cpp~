@@ -20,7 +20,6 @@ no_he_terminado = in>>num;
 cout<<num<<endl;
 suma+= num;
 cantidad++;
-//esto no existe men
 }
 cout<<"Promedio: "<<suma/cantidad<<endl;
 
